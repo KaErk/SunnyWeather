@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/AndroidProject/SunnyWeather/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26979166666666665" />
         <entry key="..\:/Android/AndroidProject/SunnyWeather/app/src/main/res/layout/activity_main.xml" value="0.2390625" />
         <entry key="..\:/Android/AndroidProject/SunnyWeather/app/src/main/res/layout/activity_weather.xml" value="0.24456521739130435" />
         <entry key="..\:/Android/AndroidProject/SunnyWeather/app/src/main/res/layout/forecast.xml" value="0.24456521739130435" />
@@ -11,6 +12,8 @@
         <entry key="..\:/Android/AndroidProject/SunnyWeather/app/src/main/res/layout/life_index.xml" value="0.24456521739130435" />
         <entry key="..\:/Android/AndroidProject/SunnyWeather/app/src/main/res/layout/now.xml" value="0.24456521739130435" />
         <entry key="..\:/Android/AndroidProject/SunnyWeather/app/src/main/res/layout/place_item.xml" value="0.21557971014492755" />
+        <entry key="..\:/Android/AndroidProject/SunnyWeather/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26979166666666665" />
+        <entry key="..\:/Android/AndroidProject/SunnyWeather/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26979166666666665" />
       </map>
     </option>
   </component>
